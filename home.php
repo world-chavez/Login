@@ -15,6 +15,9 @@ if(!isset($_SESSION["user_id"]) || $_SESSION["user_id"]==null){
 <div class="container">
 <div class="row">
 <div class="col-md-6">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
 		<h2>Bienvenido</h2>
 
 </div>
