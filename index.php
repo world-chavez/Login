@@ -22,11 +22,11 @@ session_start();
 			<li><i class="glyphicon glyphicon-glass"></i> importar o crear la base de datos con el nombre registro.sql</li>
 			<li><i class="glyphicon glyphicon-ok"></i> crear usuarios para poder ingresar</li>
 			<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
-				<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
+				<li><i class="glyphicon glyphicon-ok"></i> Muchadfdf suerte</li>
 				li><i class="glyphicon glyphicon-ok"></i> es tidisdafjoisdjfoi </li>
-					<li><i class="glyphicon glyphicon-ok"></i> sss sss Mucha suerte</li>
+					<li><i class="glyphicon glyphicon-ok"></i>  Mucha suerte</li>
 						<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
-							<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
+							<li><i class="glyphicon glyphicon-ok"></i> Mucha sueasdfrte</li>
 							li><i class="glyphicon glyphicon-ok"></i> btntntnt</li>
 			</ul>
 
