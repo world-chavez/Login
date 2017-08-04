@@ -13,7 +13,9 @@ session_start();
 	<div class="col-md-12">
 			<h2>REGISTRO Y LOGIN BASICO</h2>
 			<h3>otra prueba jdjdj</h3>
-		
+			<h3>otra prueba jdjdj</h3>
+			<h3 color:"red" >otra prueba jdjdj</h3>
+		2
 			
 			
 			<ul type="none">
