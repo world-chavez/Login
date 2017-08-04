@@ -12,6 +12,7 @@ session_start();
 	<div class="row">
 	<div class="col-md-12">
 			<h2>REGISTRO Y LOGIN BASICO</h2>
+			<h3>otra prueba jdjdj</h3>
 		
 			
 			
@@ -23,11 +24,11 @@ session_start();
 			<li><i class="glyphicon glyphicon-ok"></i> crear usuarios para poder ingresar</li>
 			<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
 				<li><i class="glyphicon glyphicon-ok"></i> Muchadfdf suerte</li>
-				li><i class="glyphicon glyphicon-ok"></i> es tidisdafjoisdjfoi </li>
+				<li><i class="glyphicon glyphicon-ok"></i> es tidisdafjoisdjfoi </li>
 					<li><i class="glyphicon glyphicon-ok"></i>  Mucha suerte</li>
 						<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
 							<li><i class="glyphicon glyphicon-ok"></i> Mucha sueasdfrte</li>
-							li><i class="glyphicon glyphicon-ok"></i> btntntnt</li>
+							<li><i class="glyphicon glyphicon-ok"></i> btntntnt</li>
 			</ul>
 
 	</div>
