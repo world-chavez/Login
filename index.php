@@ -16,10 +16,10 @@ session_start();
 			
 			
 			<ul type="none">
-			<li><i class="glyphicon glyphicon-ok"></i> Examen Final Mucha suerte</li>
+			<li><i class="glyphicon glyphicon-before"></i> Examen Final Mucha suerte</li>
 			<li><i class="glyphicon glyphicon-ok"></i> En el archivo login.php y registro.php realizar una descripcion de cada etiqueta </li>
-			<li><i class="glyphicon glyphicon-ok"></i> En el archivo conexion.php modificar segun su base de datos para realizar la conexion </li>
-			<li><i class="glyphicon glyphicon-ok"></i> importar o crear la base de datos con el nombre registro.sql</li>
+			<li><i class="glyphicon glyphicon-cloud"></i> En el archivo conexion.php modificar segun su base de datos para realizar la conexion </li>
+			<li><i class="glyphicon glyphicon-glass"></i> importar o crear la base de datos con el nombre registro.sql</li>
 			<li><i class="glyphicon glyphicon-ok"></i> crear usuarios para poder ingresar</li>
 			<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
 				<li><i class="glyphicon glyphicon-ok"></i> Mucha suerte</li>
